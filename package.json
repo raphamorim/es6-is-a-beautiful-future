@@ -1,0 +1,28 @@
+{
+  "name": "es6-is-a-beautiful-future",
+  "version": "1.0.0",
+  "description": "Starter Kit to build any javascript ES6 project/library runnable in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/babel/bin/babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphamorim/es6-is-a-beautiful-future.git"
+  },
+  "keywords": [
+    "node",
+    "es6",
+    "future"
+  ],
+  "author": "Raphael Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphamorim/es6-is-a-beautiful-future/issues"
+  },
+  "homepage": "https://github.com/raphamorim/es6-is-a-beautiful-future#readme",
+  "dependencies": {
+    "babel": "^5.6.14"
+  }
+}
